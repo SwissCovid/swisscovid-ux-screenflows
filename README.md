@@ -28,7 +28,20 @@ User flow "notification after possible infection"
 https://invis.io/TXXC5V1YPB8#/418111257_Notification_Lock
 
 ### French
-Will soon be available
+#### App in normal mode
+https://invis.io/UYXCRD728XE
+
+#### Onboarding iOS
+User flow on first app start. Clarifications and permissions. 
+https://invis.io/UYXCRD728XE#/418290507_Start_Onboarding
+
+#### Onboarding Android
+User flow on first app start. Clarifications and permissions.
+https://invis.io/UYXCRD728XE#/418290566_Start_Onboarding_Android
+
+#### Notification
+User flow "notification after possible infection" 
+https://invis.io/UYXCRD728XE#/418290605_Notification_Lock
 
 ## Contribution Guide
 Results of UX-Tests based on the prototypes as well as potential problems on UX and accessibility matters are welcome and should be reported using Github Issues.
