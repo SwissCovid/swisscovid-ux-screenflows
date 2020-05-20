@@ -1,16 +1,16 @@
 # dp3t-ux-screenflows-ch
 
 ## Introduction
-This repository holds the links to InVision prototypes that show the current development of the Swiss PT-App as seen in the following repositories:
+This repository holds the links to InVision prototypes that show the current development of the SwissCovid App as seen in the following repositories:
 * Android App: [dp3t-app-android-ch](https://github.com/DP-3T/dp3t-app-android-ch)
 * iOS App: [dp3t-app-ios-ch](https://github.com/DP-3T/dp3t-app-ios-ch)
 
-The screen flows give on overview of the user flows of the Swiss PT-App. This enables people that are not able to build the apps from the source code to see and test the user interface of the Swiss PT-App.
+The screen flows give on overview of the user flows of the SwissCovid App. This enables people that are not able to build the apps from the source code to see and test the user interface of the SwissCovid App.
 
 
 
 ## Screen Flows
-The links below lead to an InVision click prototype that guide through the Swiss PT-App.
+The links below lead to an InVision click prototype that guide through the SwissCovid App.
 ### German
 #### App in normal mode
 https://invis.io/TXXC5V1YPB8
