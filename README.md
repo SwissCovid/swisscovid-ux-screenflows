@@ -28,6 +28,8 @@ User flow "notification after possible infection"
 https://invis.io/TXXC5V1YPB8#/418111257_Notification_Lock
 
 ### French
+NOTE: the screenflows in french do not reflect the latest state of the texts in the app.
+
 #### App in normal mode
 https://invis.io/UYXCRD728XE
 
