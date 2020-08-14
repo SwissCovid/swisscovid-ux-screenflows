@@ -7,7 +7,9 @@ This repository holds the links to InVision prototypes that show the current dev
 
 The screen flows give on overview of the user flows of the SwissCovid App. This enables people that are not able to build the apps from the source code to see and test the user interface of the SwissCovid App.
 
-
+## DRAFT: International Interoperability
+The following prototype illustrates a possible integration of the international interoperability feature into SwissCovid from a UX-perspective:
+https://invis.io/T8Y6BK5ZU45
 
 ## Screen Flows
 The links below lead to an InVision click prototype that guide through the SwissCovid App.
