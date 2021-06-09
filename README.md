@@ -24,7 +24,7 @@ Results of UX-Tests based on the prototypes as well as potential problems on UX 
 <img src="screenshots/EN/02-bluetooth-light-en@2x.png" width="12%">
 <img src="screenshots/EN/03-homescreen-light-en@2x.png" width="12%">
 <img src="screenshots/EN/04-homescreen-meldung-light-en@2x.png" width="12%">
-<img src="screenshots/EN/05-covidcoen-light-en@2x.png" width="12%">
+<img src="screenshots/EN/05-covidcode-light-en@2x.png" width="12%">
 <img src="screenshots/EN/06-positiv-light-en@2x.png" width="12%">
 <img src="screenshots/EN/07-offer-check-in-light-en@2x.png" width="12%">
 <img src="screenshots/EN/08-qr-code-light-en@2x.png" width="12%">
@@ -36,7 +36,7 @@ Results of UX-Tests based on the prototypes as well as potential problems on UX 
 <img src="screenshots/DE/02-bluetooth-light-de@2x.png" width="12%">
 <img src="screenshots/DE/03-homescreen-light-de@2x.png" width="12%">
 <img src="screenshots/DE/04-homescreen-meldung-light-de@2x.png" width="12%">
-<img src="screenshots/DE/05-covidcoen-light-de@2x.png" width="12%">
+<img src="screenshots/DE/05-covidcode-light-de@2x.png" width="12%">
 <img src="screenshots/DE/06-positiv-light-de@2x.png" width="12%">
 <img src="screenshots/DE/07-offer-check-in-light-de@2x.png" width="12%">
 <img src="screenshots/DE/08-qr-code-light-de@2x.png" width="12%">
@@ -48,7 +48,7 @@ Results of UX-Tests based on the prototypes as well as potential problems on UX 
 <img src="screenshots/FR/02-bluetooth-light-fr@2x.png" width="12%">
 <img src="screenshots/FR/03-homescreen-light-fr@2x.png" width="12%">
 <img src="screenshots/FR/04-homescreen-meldung-light-fr@2x.png" width="12%">
-<img src="screenshots/FR/05-covidcoen-light-fr@2x.png" width="12%">
+<img src="screenshots/FR/05-covidcode-light-fr@2x.png" width="12%">
 <img src="screenshots/FR/06-positiv-light-fr@2x.png" width="12%">
 <img src="screenshots/FR/07-offer-check-in-light-fr@2x.png" width="12%">
 <img src="screenshots/FR/08-qr-code-light-fr@2x.png" width="12%">
@@ -60,7 +60,7 @@ Results of UX-Tests based on the prototypes as well as potential problems on UX 
 <img src="screenshots/IT/02-bluetooth-light-it@2x.png" width="12%">
 <img src="screenshots/IT/03-homescreen-light-it@2x.png" width="12%">
 <img src="screenshots/IT/04-homescreen-meldung-light-it@2x.png" width="12%">
-<img src="screenshots/IT/05-covidcoen-light-it@2x.png" width="12%">
+<img src="screenshots/IT/05-covidcode-light-it@2x.png" width="12%">
 <img src="screenshots/IT/06-positiv-light-it@2x.png" width="12%">
 <img src="screenshots/IT/07-offer-check-in-light-it@2x.png" width="12%">
 <img src="screenshots/IT/08-qr-code-light-it@2x.png" width="12%">
