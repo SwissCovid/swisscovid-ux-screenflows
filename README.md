@@ -20,32 +20,48 @@ Results of UX-Tests based on the prototypes as well as potential problems on UX 
 
 ### English
 <p align="center">
-<img src="screenshots/EN/01-bluetooth-dark-en@2x.png" width="20%">
-<img src="screenshots/EN/02-privacy-dark-en@2x.png" width="20%">
-<img src="screenshots/EN/03-homescreen-dark-en@2x.png" width="20%">
-<img src="screenshots/EN/04-homescreen-meldung-dark-en@2x.png" width="20%">
+<img src="screenshots/EN/01-check-in-light-en@2x.png" width="12%">
+<img src="screenshots/EN/02-bluetooth-light-en@2x.png" width="12%">
+<img src="screenshots/EN/03-homescreen-light-en@2x.png" width="12%">
+<img src="screenshots/EN/04-homescreen-meldung-light-en@2x.png" width="12%">
+<img src="screenshots/EN/05-covidcoen-light-en@2x.png" width="12%">
+<img src="screenshots/EN/06-positiv-light-en@2x.png" width="12%">
+<img src="screenshots/EN/07-offer-check-in-light-en@2x.png" width="12%">
+<img src="screenshots/EN/08-qr-code-light-en@2x.png" width="12%">
 </p>
 
 ### German
 <p align="center">
-<img src="screenshots/DE/01-bluetooth-dark-de@2x.png" width="20%">
-<img src="screenshots/DE/02-privacy-dark-de@2x.png" width="20%">
-<img src="screenshots/DE/03-homescreen-dark-de@2x.png" width="20%">
-<img src="screenshots/DE/04-homescreen-meldung-dark-de@2x.png" width="20%">
+<img src="screenshots/EN/01-check-in-light-de@2x.png" width="12%">
+<img src="screenshots/EN/02-bluetooth-light-de@2x.png" width="12%">
+<img src="screenshots/EN/03-homescreen-light-de@2x.png" width="12%">
+<img src="screenshots/EN/04-homescreen-meldung-light-de@2x.png" width="12%">
+<img src="screenshots/EN/05-covidcoen-light-de@2x.png" width="12%">
+<img src="screenshots/EN/06-positiv-light-de@2x.png" width="12%">
+<img src="screenshots/EN/07-offer-check-in-light-de@2x.png" width="12%">
+<img src="screenshots/EN/08-qr-code-light-de@2x.png" width="12%">
 </p>
 
 ### French
 <p align="center">
-<img src="screenshots/FR/01-bluetooth-dark-fr@2x.png" width="20%">
-<img src="screenshots/FR/02-privacy-dark-fr@2x.png" width="20%">
-<img src="screenshots/FR/03-homescreen-dark-fr@2x.png" width="20%">
-<img src="screenshots/FR/04-homescreen-meldung-dark-fr@2x.png" width="20%">
+<img src="screenshots/EN/01-check-in-light-fr@2x.png" width="12%">
+<img src="screenshots/EN/02-bluetooth-light-fr@2x.png" width="12%">
+<img src="screenshots/EN/03-homescreen-light-fr@2x.png" width="12%">
+<img src="screenshots/EN/04-homescreen-meldung-light-fr@2x.png" width="12%">
+<img src="screenshots/EN/05-covidcoen-light-fr@2x.png" width="12%">
+<img src="screenshots/EN/06-positiv-light-fr@2x.png" width="12%">
+<img src="screenshots/EN/07-offer-check-in-light-fr@2x.png" width="12%">
+<img src="screenshots/EN/08-qr-code-light-fr@2x.png" width="12%">
 </p>
 
 ### Italian
 <p align="center">
-<img src="screenshots/IT/01-bluetooth-dark-it@2x.png" width="20%">
-<img src="screenshots/IT/02-privacy-dark-it@2x.png" width="20%">
-<img src="screenshots/IT/03-homescreen-dark-it@2x.png" width="20%">
-<img src="screenshots/IT/04-homescreen-meldung-dark-it@2x.png" width="20%">
+<img src="screenshots/EN/01-check-in-light-it@2x.png" width="12%">
+<img src="screenshots/EN/02-bluetooth-light-it@2x.png" width="12%">
+<img src="screenshots/EN/03-homescreen-light-it@2x.png" width="12%">
+<img src="screenshots/EN/04-homescreen-meldung-light-it@2x.png" width="12%">
+<img src="screenshots/EN/05-covidcoen-light-it@2x.png" width="12%">
+<img src="screenshots/EN/06-positiv-light-it@2x.png" width="12%">
+<img src="screenshots/EN/07-offer-check-in-light-it@2x.png" width="12%">
+<img src="screenshots/EN/08-qr-code-light-it@2x.png" width="12%">
 </p>
