@@ -11,10 +11,10 @@ The screen flows give an overview of the user flows of the SwissCovid App. This 
 ## Screen Flows
 The links below lead to an InVision click prototype that guide through the SwissCovid App.
 ### German
-https://invis.io/6R1158ZEFK47
+https://swisscovid.github.io/swisscovid-ux-screenflows/screenflows-de/
 
 ### English
-https://invis.io/WV1158ZUAXNZ
+https://swisscovid.github.io/swisscovid-ux-screenflows/screenflows-en/
 
 ## Contribution Guide
 Results of UX-Tests based on the prototypes as well as potential problems on UX and accessibility matters are welcome and should be reported using Github Issues.

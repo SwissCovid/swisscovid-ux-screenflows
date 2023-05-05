@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="39.52023304024033" width="45.809204648629475" viewBox="0 0 45.809204648629475 39.52023304024033">
+  <defs>
+    <path id="path-1" fill-rule="evenodd" d="M12.003526029628443,5 C10.376780916313196,5 9.430532695910252,6.838739439611594 10.376059087214976,8.162476387438199 L21.46193917866894,23.682708515473642 C22.267411158198577,24.81036928681513 23.94780895833405,24.796972889305422 24.735199922287293,23.656613562200732 L35.45155067735945,8.136381434165289 C36.3675852195613,6.809710717872967 35.41795242011768,5.000000000000001 33.80575687615456,5.000000000000001 L12.003526029628443,5Z"/>
+    <filter id="filter-2" filterUnits="userSpaceOnUse" x="-50%" y="-50%" width="200%" height="200%">
+      <feOffset in="SourceAlpha" result="shadow-1-feOffset-shadow" dx="0" dy="5"/>
+      <feGaussianBlur in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="5"/>
+      <feColorMatrix in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.12 0"/>
+      <feMerge>
+        <feMergeNode in="shadow-1-feColorMatrix-shadow"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g opacity="1">
+    <use xlink:href="#path-1" fill="black" filter="url(#filter-2)" stroke="black" stroke-opacity="0" stroke-width="0"/>
+    <use xlink:href="#path-1" fill="rgb(255,255,255)" fill-opacity="1"/>
+  </g>
+</svg>
